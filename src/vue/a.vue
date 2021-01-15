@@ -1,5 +1,5 @@
 <template>
-  <div>a.vue
+  <div>
     <Custom/>
   </div>
 </template>
